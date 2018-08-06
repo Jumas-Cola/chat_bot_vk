@@ -1,0 +1,4 @@
+requests
+vk_api
+vk_api.longpoll
+bs4
